@@ -38,10 +38,10 @@
 <!-- [![codewars](https://www.codewars.com/users/Metaldetect/badges/small)](https://www.codewars.com/users/Metaldetect)  -->
 
 
-<!-- ![trophy](https://github-profile-trophy.vercel.app/?username=Metaldetect&title=Commits&column=2)
+![trophy](https://github-profile-trophy.vercel.app/?username=Metaldetect&title=Commits&column=2)
 ![trophy](https://github-profile-trophy.vercel.app/?username=Metaldetect&title=Repositories&column=2)
 ![trophy](https://github-profile-trophy.vercel.app/?username=Metaldetect&title=Followers&column=2)
-![trophy](https://github-profile-trophy.vercel.app/?username=Metaldetect&title=Stars&column=2) -->
+![trophy](https://github-profile-trophy.vercel.app/?username=Metaldetect&title=Stars&column=2)
 
 
 <!-- Here are some ideas to get you started:
