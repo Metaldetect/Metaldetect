@@ -39,7 +39,8 @@
 
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/Metaldetect?style=social">
 
-<img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" /></a>
+ <a href="#" alt="LinkedIn">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/stanislav-klymenko/" /></a>
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Metaldetect&hide_progress=true&layout=compact) -->
 
