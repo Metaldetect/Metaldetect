@@ -38,7 +38,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Metaldetect&langs_count=5&layout=compact)
 
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/Metaldetect?style=social">
-[![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](Metaldetect)
+
 
 
 <a href="https://www.linkedin.com/in/stanislav-klymenko/" alt="LinkedIn">
