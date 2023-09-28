@@ -43,6 +43,8 @@
   <img src="./images/illustrator-original.png" title="Illustrator" alt="Illustrator" width="40" height="40"/>&nbsp; -->
 </div>
 
+### GitHub Stats :
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Metaldetect&show_icons=true&theme=dracula)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Metaldetect&langs_count=5&layout=compact)
 
