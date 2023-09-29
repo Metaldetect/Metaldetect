@@ -5,7 +5,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Caveat&size=32&pause=1000&color=1FF75E&center=true&width=440&lines=Hello%2C+my+name+is+Stanislav+Klymenko;and+I'm+studying+frontend+development.;Skills%3A+HTML5%2C+CSS3%2C+JavaScript)](https://git.io/typing-svg)
 <img src="https://github.com/Metaldetect/Metaldetect/blob/main/src/Grey%20Minimalist%20Modern%20Social%20Media%20Specialist%20LinkedIn%20Banner(2).png" alt="">
 
-### My stack :
+### Languages and Tools:
 
 <div>
   <img src="./images/html5-original.svg" title="HTML5" alt="HTML5" width="40" height="40"/>&nbsp;
